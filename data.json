@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer":"Paris"
+  },
+   {
+    "question":" What planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Earth", "Jupiter"],
+    "answer":"Mars"
+  },
+   {
+    "question": "Who wrote Romeo and Juliet?",
+    "options": ["William Shakespeare", "Mark Twain", "Jane Austen", "Charles Dickens"],
+    "answer":"William Shakespeare"
+  },
+   {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer":"Carbon Dioxide"
+  },
+   {
+    "question": "What is H2O commonly known as?",
+    "options": ["Hydrogen", "Oxygen", "Salt", "Water"],
+    "answer":"Water"
+  },
+    {
+    "question": " What is 9 * 9?",
+    "options": ["81", "79", "99", "181"],
+    "answer":"81"
+  },
+   {
+    "question": " Who is known as the Father of Computers?",
+    "options": ["Isaac Newton", "Alan Turing", "Charles Babbage", "Albert Einstein"],
+    "answer":"Charles Babbage"
+  },
+   {
+    "question": " Which animal is the largest land animal?",
+    "options": ["Hippopotamus", "African Elephant", "Giraffe", "Rhino"],
+    "answer":"African Elephant"
+  },
+   {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer":"Jupiter"
+  },
+   {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Diamond", "Iron", "Quartz"],
+    "answer":"Diamond"
+  }
+] 

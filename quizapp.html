@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz App</title>
+  
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-blue-500 flex items-center justify-center min-h-screen">
+    <div class="bg-white p-0 rounded-3xl shadow-2xl w-full max-w-md text-center  overflow-hidden">
+        <div class="bg-green-600 py-10 px-8 rounded-t-3xl flex flex-col items-center justify-center relative">
+            <h1 class="text-6xl font-extrabold mb-2 text-white ">Quiz App</h1>
+            <p class="text-blue-100 mb-2 text-xl">Test your knowledge with this simple quiz</p>
+        </div>
+        <div class="px-8 py-8 bg-blue-30 rounded-b-3xl ">
+            <div id="quiz" class="space-y-6"></div>
+            <button id="nextBtn" class="bg-pink-500 text-white font-bold px-10 py-4 rounded-2xl shadow-xl mt-10 hidden border-4 border-white">
+                 <span class="">Next</span>
+            </button>
+        </div>
+    </div>
+    <script defer src="quizapp.js"></script>
+</body>
+</html>
